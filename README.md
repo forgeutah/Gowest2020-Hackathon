@@ -5,8 +5,8 @@ We are holding a community hack-a-thon for all conference attendees. We invite t
 ## Submission
 To submit do the following steps
 1. Fork [https://github.com/forgeutah/Gowest2020-Hackathon](https://github.com/forgeutah/Gowest2020-Hackathon)
-1. Create project directory as sub-directory of [`/submissions`](/submissions)
-1. Copy and fill it template.md
+1. Create your project directory as sub-directory of [`/submissions`](/submissions)
+1. Copy [https://github.com/forgeutah/Gowest2020-Hackathon/submissions/example-template/template.md](template.md) to your project directory and it fill out with team information
 1. create Pr to repo and submit pr
 1. Attend GoWest Conference on Oct 2nd, 2020
 
